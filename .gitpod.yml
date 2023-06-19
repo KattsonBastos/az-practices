@@ -1,2 +1,3 @@
 tasks:
   - init: curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
+  - init: code --install-extension ms-azuretools.vscode-azurefunctions
